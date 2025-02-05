@@ -1,0 +1,3 @@
+Favorite Quote: "If you fail to plan, you are planning to fail." -Benjamin Franklin
+
+My preferred tech stack is Java!
